@@ -4,6 +4,7 @@ Author: Harry He
 ## Project Description
 A video demo of how to use the project.
 
+https://github.com/he-is-harry/Monkeytype-Solver/assets/69978107/340695df-bfce-4976-a414-628d0da9994e
 
 The project will be able to use some keyboard inputs and utilize Python macros to read the screen and output the characters to ace a typing test.
 
